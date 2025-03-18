@@ -6,3 +6,5 @@
 
 **Latest report PDF**: [report.pdf](https://github.com/Jules-Kong/action-repo-stat-record/raw/github-repo-stats/Jules-Kong/OpenCL-CTS/latest-report/report.pdf)
 
+
+**Latest report HTML via GitHub pages**: [report.html](https://Jules-Kong.github.io/action-repo-stat-record/Jules-Kong/OpenCL-CTS/latest-report/report.html)
