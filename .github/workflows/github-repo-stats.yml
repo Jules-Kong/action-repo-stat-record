@@ -16,6 +16,7 @@ jobs:
         # Use latest release.
         uses: jgehrcke/github-repo-stats@RELEASE
         with:
+          ghpagesprefix: https://Jules-Kong.github.io/action-repo-stat-record
           repository: Jules-Kong/OpenCL-CTS
             # path: OpenCL-CTS
           ghtoken: ${{ secrets.ghrs_github_api_token }}
