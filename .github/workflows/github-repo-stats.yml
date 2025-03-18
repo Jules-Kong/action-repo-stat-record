@@ -18,4 +18,4 @@ jobs:
         with:
           repository: Jules-Kong/OpenCL-CTS
           path: OpenCL-CTS
-          ghtoken: ${{ secrets.ACTION_FOR_CLONE_NUM }}
+          ghtoken: ${{ secrets.action_for_clone_num }}
