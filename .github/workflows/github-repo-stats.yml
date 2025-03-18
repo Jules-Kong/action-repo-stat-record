@@ -1,4 +1,4 @@
-name: github-repo-stats
+name: fetch-repository-stats
 concurrency: fetch-repository-stats
 
 on:
