@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        statsRepo: ['Jules-Kong/OpenCL-CTS', 'Jules-Kong/ventus_cpu_guide']
+        statsRepo: ['Jules-Kong/OpenCL-CTS', 'Jules-Kong/ventus_cpu_guide', 'Jules-Kong/OpenCL-CTS-guide']
       fail-fast: false
       max-parallel: 1
     steps:
