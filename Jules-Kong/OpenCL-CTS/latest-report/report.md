@@ -1,5 +1,5 @@
 % Statistics for Jules-Kong/OpenCL-CTS
-% Generated for [Jules-Kong/OpenCL-CTS](https://github.com/Jules-Kong/OpenCL-CTS) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-10-12 23:08 UTC.
+% Generated for [Jules-Kong/OpenCL-CTS](https://github.com/Jules-Kong/OpenCL-CTS) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-10-13 23:08 UTC.
 
 
 ## Views
@@ -78,7 +78,7 @@ Top 15 referrers: 01: `github.com`, 02: `jules-kong.github.io`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/test_math_brute_force`, 03: `/commit/af0b06614d6ff4752f61cdeffe1921119659aee2`, 04: `/tree/dev_ventus`, 05: `/fork`, 06: `/commits/dev_ventus`, 07: `/commit/e45aa245add87fb6aefbab6e59d9be2acb35a772`, 08: `/actions/workflows/presubmit.yml`, 09: `/actions/runs/13917488941`, 10: `/blob/2686b9e2c194b8c68ace95953a77d2f41d513d6f/test_conformance/conversions/basic_test_conversions.cpp`, 11: `/commit/2686b9e2c194b8c68ace95953a77d2f41d513d6f`, 12: `/pulse`, 13: `/commit/e9dda967af47739c63283241ead2fb3dcd46fc17`, 14: `/branches`, 15: `/forks`
+Top 15 paths: 01: `/`, 02: `/tree/test_math_brute_force`, 03: `/commit/af0b06614d6ff4752f61cdeffe1921119659aee2`, 04: `/tree/dev_ventus`, 05: `/fork`, 06: `/commits/dev_ventus`, 07: `/commit/e45aa245add87fb6aefbab6e59d9be2acb35a772`, 08: `/commit/a406b340913f622da089b00f284a597656c10239`, 09: `/pulls`, 10: `/commit/2686b9e2c194b8c68ace95953a77d2f41d513d6f`, 11: `/graphs/traffic`, 12: `/blob/2686b9e2c194b8c68ace95953a77d2f41d513d6f/readme-spir-v-binaries.txt`, 13: `/commits/test_math_brute_force`, 14: `/blob/2686b9e2c194b8c68ace95953a77d2f41d513d6f/test_conformance/conversions/basic_test_conversions.cpp`, 15: `/actions/workflows/presubmit.yml`
 
 
 <script type="text/javascript">
