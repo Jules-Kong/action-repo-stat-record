@@ -2,8 +2,8 @@ name: fetch-repository-stats
 concurrency: fetch-repository-stats
 
 on:
-  schedule:
-    - cron: "0 23 * * *" # 11:00 pm
+  # schedule:
+  #   - cron: "0 23 * * *" # 11:00 pm
   workflow_dispatch:
 
 jobs:
